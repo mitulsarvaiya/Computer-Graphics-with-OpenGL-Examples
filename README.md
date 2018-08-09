@@ -1,4 +1,4 @@
-# OpenGL-Exapmles
+# OpenGL-Examples
 Computer Graphics Programs in OpenGL with all algorithm
 
 Computer Graphics Beginer Programs using C and OpenGL
